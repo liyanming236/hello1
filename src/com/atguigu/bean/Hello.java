@@ -13,6 +13,7 @@ public class Hello {
 		System.out.println("更新8");
 		System.out.println("更新8");
 		System.out.println("更新999");
+		System.out.println("更新10");
 		
 	}
 
